@@ -6,6 +6,8 @@ This is a non-responsive music app UI designed to work specifically on 1440p scr
 
 ![Music App UI Preview](./harmony_ss.png)
 
+Preview Link: https://music-app-ui.cyberpirate.repl.co/#
+
 ## Features
 
 - Visual representation of the currently playing track
